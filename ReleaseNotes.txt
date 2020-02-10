@@ -1,0 +1,6 @@
+PicoZenseUTool_Windows_20191101_V3.0.0.3_DCAM800
+1. SDK version: PicoZenseSDK_Windows_20191101_V3.0.0.3_DCAM800
+2. Add Upgrade function
+3. Fix WDR Mode
+
+
